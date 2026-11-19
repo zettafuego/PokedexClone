@@ -1,0 +1,84 @@
+{
+  "id": 90,
+  "number": "0090",
+  "name": "shellder",
+  "name_es": "Shellder",
+  "genus_es": "Pokémon Bivalvo",
+  "flavor_es": "La concha lo protege de cualquier tipo de ataque. Solo es vulnerable cuando se abre.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "height_m": 0.3,
+  "weight_kg": 4.0,
+  "abilities": [
+    {
+      "name": "shell-armor",
+      "name_es": "Caparazón",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "skill-link",
+      "name_es": "Encadenado",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "overcoat",
+      "name_es": "Funda",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 30,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 65,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 100,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 45,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 25,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 40,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/90.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "local": "assets/sprites/0090.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "purple",
+  "habitat": "sea",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/39/"
+}

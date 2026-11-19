@@ -1,0 +1,76 @@
+{
+  "id": 151,
+  "number": "0151",
+  "name": "mew",
+  "name_es": "Mew",
+  "genus_es": "Pokémon Nueva Especie",
+  "flavor_es": "Si se observa a través de un microscopio, puede distinguirse cuán corto, fino y delicado es el pelaje de este Pokémon.",
+  "types": [
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "height_m": 0.4,
+  "weight_kg": 4.0,
+  "abilities": [
+    {
+      "name": "synchronize",
+      "name_es": "Sincronía",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 100,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 100,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 100,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 100,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 100,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 100,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "dark",
+      "es": "Siniestro"
+    },
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/151.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "local": "assets/sprites/0151.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": true,
+  "color": "pink",
+  "habitat": "rare",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/78/"
+}

@@ -1,0 +1,14 @@
+{
+  "source": "https://pokeapi.co",
+  "inspired_by": "https://www.pokemon.com/el/pokedex",
+  "count": 151,
+  "limit": 151,
+  "generated": "2026-08-13T20:43:17",
+  "structure": {
+    "data/pokemon_index.json": "Lista ligera (cards)",
+    "data/pokemon_full.json": "Todos los detalles en un JSON",
+    "data/pokemon/NNNN.json": "Detalle individual",
+    "data/types.json": "Tipos EN/ES",
+    "assets/sprites/NNNN.png": "Artwork oficial (opcional)"
+  }
+}

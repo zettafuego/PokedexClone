@@ -1,0 +1,90 @@
+{
+  "id": 144,
+  "number": "0144",
+  "name": "articuno",
+  "name_es": "Articuno",
+  "genus_es": "Pokémon Congelar",
+  "flavor_es": "Posee el poder de controlar el hielo a su antojo. Se dice que este Pokémon habita en montañas de nieves perpetuas.",
+  "types": [
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.7,
+  "weight_kg": 55.4,
+  "abilities": [
+    {
+      "name": "pressure",
+      "name_es": "Presión",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "snow-cloak",
+      "name_es": "Manto Níveo",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 90,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 85,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 100,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 95,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 125,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 85,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "steel",
+      "es": "Acero"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/144.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "local": "assets/sprites/0144.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": true,
+  "is_mythical": false,
+  "color": "blue",
+  "habitat": "rare",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/73/"
+}

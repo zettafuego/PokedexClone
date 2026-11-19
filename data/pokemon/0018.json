@@ -1,0 +1,92 @@
+{
+  "id": 18,
+  "number": "0018",
+  "name": "pidgeot",
+  "name_es": "Pidgeot",
+  "genus_es": "Pokémon Pájaro",
+  "flavor_es": "Este Pokémon vuela a una velocidad de 2 mach en busca de presas. Sus grandes garras son armas muy peligrosas.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.5,
+  "weight_kg": 39.5,
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "name_es": "Vista Lince",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tangled-feet",
+      "name_es": "Tumbos",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "big-pecks",
+      "name_es": "Sacapecho",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 83,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 80,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 75,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 70,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 70,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 101,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "local": "assets/sprites/0018.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/6/"
+}

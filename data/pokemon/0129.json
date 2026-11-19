@@ -1,0 +1,78 @@
+{
+  "id": 129,
+  "number": "0129",
+  "name": "magikarp",
+  "name_es": "Magikarp",
+  "genus_es": "Pokémon Pez",
+  "flavor_es": "Este Pokémon débil y patético se limita a dejarse llevar por la corriente cuando esta tiene fuerza.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "height_m": 0.9,
+  "weight_kg": 10.0,
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "name_es": "Nado Rápido",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rattled",
+      "name_es": "Cobardía",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 20,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 10,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 55,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 15,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 20,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 80,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/129.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "local": "assets/sprites/0129.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "waters-edge",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/64/"
+}

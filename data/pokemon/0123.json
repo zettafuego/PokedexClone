@@ -1,0 +1,100 @@
+{
+  "id": 123,
+  "number": "0123",
+  "name": "scyther",
+  "name_es": "Scyther",
+  "genus_es": "Pokémon Mantis",
+  "flavor_es": "El territorio de un Scyther se identifica fácilmente por el gran número de árboles talados de forma indiscriminada en una misma zona del bosque.",
+  "types": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.5,
+  "weight_kg": 56.0,
+  "abilities": [
+    {
+      "name": "swarm",
+      "name_es": "Enjambre",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "technician",
+      "name_es": "Experto",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "steadfast",
+      "name_es": "Impasible",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 70,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 110,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 80,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 55,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 105,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/123.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "local": "assets/sprites/0123.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "green",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/58/"
+}

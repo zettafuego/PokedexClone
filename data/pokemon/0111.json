@@ -1,0 +1,104 @@
+{
+  "id": 111,
+  "number": "0111",
+  "name": "rhyhorn",
+  "name_es": "Rhyhorn",
+  "genus_es": "Pokémon Clavos",
+  "flavor_es": "La cabeza no le da para retener más de una cosa. Si se pone a correr, se le olvida al instante por qué empezó a hacerlo.",
+  "types": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "height_m": 1.0,
+  "weight_kg": 115.0,
+  "abilities": [
+    {
+      "name": "lightning-rod",
+      "name_es": "Pararrayos",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rock-head",
+      "name_es": "Cabeza Roca",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "reckless",
+      "name_es": "Audaz",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 80,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 85,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 95,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 30,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 30,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 25,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "steel",
+      "es": "Acero"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/111.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "local": "assets/sprites/0111.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "gray",
+  "habitat": "rough-terrain",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/50/"
+}

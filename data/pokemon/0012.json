@@ -1,0 +1,94 @@
+{
+  "id": 12,
+  "number": "0012",
+  "name": "butterfree",
+  "name_es": "Butterfree",
+  "genus_es": "Pokémon Mariposa",
+  "flavor_es": "Recoge néctar a diario y se lo adhiere al pelo de las patas para llevarlo a su nido.",
+  "types": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.1,
+  "weight_kg": 32.0,
+  "abilities": [
+    {
+      "name": "compound-eyes",
+      "name_es": "Ojo Compuesto",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tinted-lens",
+      "name_es": "Cromolente",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 60,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 45,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 50,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 90,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 70,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/12.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "local": "assets/sprites/0012.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "white",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/4/"
+}

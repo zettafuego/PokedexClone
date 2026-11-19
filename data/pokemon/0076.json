@@ -1,0 +1,104 @@
+{
+  "id": 76,
+  "number": "0076",
+  "name": "golem",
+  "name_es": "Golem",
+  "genus_es": "Pokémon Megatón",
+  "flavor_es": "Nada más mudar la piel, su cuerpo se vuelve blando y blanquecino, pero se endurece al poco tiempo de entrar en contacto con el aire.",
+  "types": [
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "ground",
+      "es": "Tierra"
+    }
+  ],
+  "height_m": 1.4,
+  "weight_kg": 300.0,
+  "abilities": [
+    {
+      "name": "rock-head",
+      "name_es": "Cabeza Roca",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sturdy",
+      "name_es": "Robustez",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sand-veil",
+      "name_es": "Velo Arena",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 80,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 120,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 130,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 55,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 65,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 45,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "steel",
+      "es": "Acero"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/76.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "local": "assets/sprites/0076.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "mountain",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/31/"
+}

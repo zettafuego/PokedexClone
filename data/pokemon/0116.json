@@ -1,0 +1,84 @@
+{
+  "id": 116,
+  "number": "0116",
+  "name": "horsea",
+  "name_es": "Horsea",
+  "genus_es": "Pokémon Dragón",
+  "flavor_es": "Nada con la gracilidad de un bailarín, creando remolinos a su paso, y juega con sus congéneres a ver quién forma el más grande.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "height_m": 0.4,
+  "weight_kg": 8.0,
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "name_es": "Nado Rápido",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sniper",
+      "name_es": "Francotirador",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "damp",
+      "name_es": "Humedad",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 30,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 40,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 70,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 70,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 25,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 60,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/116.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "local": "assets/sprites/0116.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "blue",
+  "habitat": "sea",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/54/"
+}

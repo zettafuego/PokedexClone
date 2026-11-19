@@ -1,0 +1,100 @@
+{
+  "id": 79,
+  "number": "0079",
+  "name": "slowpoke",
+  "name_es": "Slowpoke",
+  "genus_es": "Pokémon Atontado",
+  "flavor_es": "Hunde la cola en el agua y la usa cual caña de pescar. La sustancia dulce que secreta le sirve de cebo para atraer a sus presas.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "height_m": 1.2,
+  "weight_kg": 36.0,
+  "abilities": [
+    {
+      "name": "oblivious",
+      "name_es": "Despiste",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "own-tempo",
+      "name_es": "Ritmo Propio",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "regenerator",
+      "name_es": "Regeneración",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 90,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 65,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 65,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 40,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 40,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 15,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "dark",
+      "es": "Siniestro"
+    },
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/79.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "local": "assets/sprites/0079.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "pink",
+  "habitat": "waters-edge",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/33/"
+}

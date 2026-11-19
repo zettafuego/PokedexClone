@@ -1,0 +1,104 @@
+{
+  "id": 46,
+  "number": "0046",
+  "name": "paras",
+  "name_es": "Paras",
+  "genus_es": "Pokémon Hongo",
+  "flavor_es": "Escarba en el suelo para extraer nutrientes de las raíces de los árboles, que las setas del lomo absorben después casi por completo.",
+  "types": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "height_m": 0.3,
+  "weight_kg": 5.4,
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "name_es": "Efecto Espora",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dry-skin",
+      "name_es": "Piel Seca",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "damp",
+      "name_es": "Humedad",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 35,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 70,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 55,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 45,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 55,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 25,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/46.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "local": "assets/sprites/0046.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/19/"
+}

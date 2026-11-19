@@ -1,0 +1,88 @@
+{
+  "id": 77,
+  "number": "0077",
+  "name": "ponyta",
+  "name_es": "Ponyta",
+  "genus_es": "Pokémon Caballo Fuego",
+  "flavor_es": "Por extraño que parezca, una vez que alguien se ha hecho merecedor de su confianza, puede tocarle la ardiente crin sin quemarse.",
+  "types": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    }
+  ],
+  "height_m": 1.0,
+  "weight_kg": 30.0,
+  "abilities": [
+    {
+      "name": "run-away",
+      "name_es": "Fuga",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flash-fire",
+      "name_es": "Absorbe Fuego",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "flame-body",
+      "name_es": "Cuerpo Llama",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 50,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 85,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 55,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 65,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 65,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 90,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/77.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "local": "assets/sprites/0077.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "yellow",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/32/"
+}

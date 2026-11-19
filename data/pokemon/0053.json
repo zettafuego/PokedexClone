@@ -1,0 +1,80 @@
+{
+  "id": 53,
+  "number": "0053",
+  "name": "persian",
+  "name_es": "Persian",
+  "genus_es": "Pokémon Gato Fino",
+  "flavor_es": "Hace gala de un porte elegante y majestuoso. No congenia con los toscos Perrserker y ambos se profesan un mutuo desprecio.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    }
+  ],
+  "height_m": 1.0,
+  "weight_kg": 32.0,
+  "abilities": [
+    {
+      "name": "limber",
+      "name_es": "Flexibilidad",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "technician",
+      "name_es": "Experto",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "unnerve",
+      "name_es": "Nerviosismo",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 65,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 70,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 60,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 65,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 65,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 115,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/53.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "local": "assets/sprites/0053.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "yellow",
+  "habitat": "urban",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/22/"
+}

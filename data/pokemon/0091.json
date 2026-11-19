@@ -1,0 +1,96 @@
+{
+  "id": 91,
+  "number": "0091",
+  "name": "cloyster",
+  "name_es": "Cloyster",
+  "genus_es": "Pokémon Bivalvo",
+  "flavor_es": "Una vez que ha cerrado la concha, es imposible abrirla, independientemente de la fuerza que se ejerza.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    }
+  ],
+  "height_m": 1.5,
+  "weight_kg": 132.5,
+  "abilities": [
+    {
+      "name": "shell-armor",
+      "name_es": "Caparazón",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "skill-link",
+      "name_es": "Encadenado",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "overcoat",
+      "name_es": "Funda",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 50,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 95,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 180,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 85,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 45,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 70,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/91.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "local": "assets/sprites/0091.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "purple",
+  "habitat": "sea",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/39/"
+}

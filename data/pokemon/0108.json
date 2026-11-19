@@ -1,0 +1,80 @@
+{
+  "id": 108,
+  "number": "0108",
+  "name": "lickitung",
+  "name_es": "Lickitung",
+  "genus_es": "Pokémon Lametazo",
+  "flavor_es": "Se nutre principalmente de Pokémon insecto, a los que paraliza primero lamiéndolos con su larga lengua y luego engulle de un bocado.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    }
+  ],
+  "height_m": 1.2,
+  "weight_kg": 65.5,
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "name_es": "Ritmo Propio",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "oblivious",
+      "name_es": "Despiste",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "cloud-nine",
+      "name_es": "Aclimatación",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 90,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 55,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 75,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 60,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 75,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 30,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/108.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "local": "assets/sprites/0108.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "pink",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/48/"
+}

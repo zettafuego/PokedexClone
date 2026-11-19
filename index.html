@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Clon local de la Pokédex (inspirado en pokemon.com/el/pokedex). Datos vía PokeAPI." />
+  <title>Pokédex — Clon local</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-ball" aria-hidden="true"></span>
+        <span>Pokédex</span>
+      </div>
+      <div>
+        <h1>Pokédex Nacional</h1>
+        <p class="sub">Clon estructurado · datos PokeAPI · UI inspirada en Pokémon.com (ES)</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h2>Busca un Pokémon por su nombre o número</h2>
+      <p>
+        Usa la búsqueda y los filtros de tipo. Estructura de datos local en
+        <code>data/</code> generada por scraping a PokeAPI
+        (pokemon.com bloquea bots; esta es la vía estable).
+      </p>
+    </section>
+
+    <div class="toolbar">
+      <div class="search-box">
+        <input type="search" id="search" placeholder="Nombre o número…" autocomplete="off" />
+      </div>
+      <select id="sort" aria-label="Ordenar">
+        <option value="num-asc">Número inferior</option>
+        <option value="num-desc">Número superior</option>
+        <option value="az">A–Z</option>
+        <option value="za">Z–A</option>
+      </select>
+      <button type="button" class="btn btn-primary" id="btnSurprise">¡Sorpréndeme!</button>
+    </div>
+
+    <section class="filters">
+      <h3>Tipo (puedes combinar)</h3>
+      <div class="type-chips" id="typeChips"></div>
+      <div style="margin-top:12px">
+        <button type="button" class="btn" id="btnReset">Restablecer</button>
+      </div>
+    </section>
+
+    <div class="stats-bar">
+      <span id="countLabel">—</span>
+      <span>Inspirado en <a href="https://www.pokemon.com/el/pokedex" target="_blank" rel="noopener">pokemon.com/el/pokedex</a></span>
+    </div>
+
+    <div id="status"></div>
+    <div class="grid" id="grid" aria-live="polite"></div>
+  </main>
+
+  <div class="modal-bg" id="modalBg" role="dialog" aria-modal="true">
+    <div class="modal" id="modalContent"></div>
+  </div>
+
+  <footer class="footer">
+    Datos: <a href="https://pokeapi.co" target="_blank" rel="noopener">PokéAPI</a>
+    · No afiliado a The Pokémon Company
+    · Proyecto local educativo
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

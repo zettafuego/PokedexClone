@@ -1,0 +1,80 @@
+{
+  "id": 115,
+  "number": "0115",
+  "name": "kangaskhan",
+  "name_es": "Kangaskhan",
+  "genus_es": "Pokémon Maternal",
+  "flavor_es": "Se han documentado casos de Kangaskhan sin crías que han adoptado bebés humanos cuyos padres habían sido víctimas de accidentes.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    }
+  ],
+  "height_m": 2.2,
+  "weight_kg": 80.0,
+  "abilities": [
+    {
+      "name": "early-bird",
+      "name_es": "Madrugar",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "scrappy",
+      "name_es": "Intrépido",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "inner-focus",
+      "name_es": "Fuerza Mental",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 105,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 95,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 80,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 40,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 90,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/115.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "local": "assets/sprites/0115.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/53/"
+}

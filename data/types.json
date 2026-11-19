@@ -1,0 +1,78 @@
+[
+  {
+    "en": "normal",
+    "es": "Normal"
+  },
+  {
+    "en": "fighting",
+    "es": "Lucha"
+  },
+  {
+    "en": "flying",
+    "es": "Volador"
+  },
+  {
+    "en": "poison",
+    "es": "Veneno"
+  },
+  {
+    "en": "ground",
+    "es": "Tierra"
+  },
+  {
+    "en": "rock",
+    "es": "Roca"
+  },
+  {
+    "en": "bug",
+    "es": "Bicho"
+  },
+  {
+    "en": "ghost",
+    "es": "Fantasma"
+  },
+  {
+    "en": "steel",
+    "es": "Acero"
+  },
+  {
+    "en": "fire",
+    "es": "Fuego"
+  },
+  {
+    "en": "water",
+    "es": "Agua"
+  },
+  {
+    "en": "grass",
+    "es": "Planta"
+  },
+  {
+    "en": "electric",
+    "es": "Eléctrico"
+  },
+  {
+    "en": "psychic",
+    "es": "Psíquico"
+  },
+  {
+    "en": "ice",
+    "es": "Hielo"
+  },
+  {
+    "en": "dragon",
+    "es": "Dragón"
+  },
+  {
+    "en": "dark",
+    "es": "Siniestro"
+  },
+  {
+    "en": "fairy",
+    "es": "Hada"
+  },
+  {
+    "en": "stellar",
+    "es": "Astral"
+  }
+]

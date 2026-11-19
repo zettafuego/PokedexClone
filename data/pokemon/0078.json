@@ -1,0 +1,88 @@
+{
+  "id": 78,
+  "number": "0078",
+  "name": "rapidash",
+  "name_es": "Rapidash",
+  "genus_es": "Pokémon Caballo Fuego",
+  "flavor_es": "El ejemplar más rápido se convierte en el líder de la manada y decide tanto el ritmo de galope como su destino.",
+  "types": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    }
+  ],
+  "height_m": 1.7,
+  "weight_kg": 95.0,
+  "abilities": [
+    {
+      "name": "run-away",
+      "name_es": "Fuga",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flash-fire",
+      "name_es": "Absorbe Fuego",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "flame-body",
+      "name_es": "Cuerpo Llama",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 65,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 100,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 70,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 80,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 105,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/78.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "local": "assets/sprites/0078.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "yellow",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/32/"
+}

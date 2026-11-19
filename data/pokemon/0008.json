@@ -1,0 +1,78 @@
+{
+  "id": 8,
+  "number": "0008",
+  "name": "wartortle",
+  "name_es": "Wartortle",
+  "genus_es": "Pokémon Tortuga",
+  "flavor_es": "Utiliza hábilmente sus peludas orejas y la cola para mantener el equilibrio al nadar.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "height_m": 1.0,
+  "weight_kg": 22.5,
+  "abilities": [
+    {
+      "name": "torrent",
+      "name_es": "Torrente",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rain-dish",
+      "name_es": "Cura Lluvia",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 59,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 63,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 80,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 65,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 58,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "local": "assets/sprites/0008.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "blue",
+  "habitat": "waters-edge",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/3/"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 97,
+  "number": "0097",
+  "name": "hypno",
+  "name_es": "Hypno",
+  "genus_es": "Pokémon Hipnosis",
+  "flavor_es": "Conviene evitar el contacto visual en caso de encontrarse con este Pokémon, ya que puede hipnotizar con su péndulo.",
+  "types": [
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "height_m": 1.6,
+  "weight_kg": 75.6,
+  "abilities": [
+    {
+      "name": "insomnia",
+      "name_es": "Insomnio",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "forewarn",
+      "name_es": "Alerta",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "inner-focus",
+      "name_es": "Fuerza Mental",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 85,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 73,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 70,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 73,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 115,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 67,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "dark",
+      "es": "Siniestro"
+    },
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/97.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "local": "assets/sprites/0097.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "yellow",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/42/"
+}

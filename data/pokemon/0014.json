@@ -1,0 +1,84 @@
+{
+  "id": 14,
+  "number": "0014",
+  "name": "kakuna",
+  "name_es": "Kakuna",
+  "genus_es": "Pokémon Capullo",
+  "flavor_es": "Aunque es casi incapaz de moverse, en caso de sentirse amenazado puede envenenar a los enemigos con su aguijón.",
+  "types": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    }
+  ],
+  "height_m": 0.6,
+  "weight_kg": 10.0,
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "name_es": "Mudar",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 45,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 25,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 50,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 25,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 25,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 35,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "local": "assets/sprites/0014.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "yellow",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/5/"
+}

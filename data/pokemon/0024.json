@@ -1,0 +1,84 @@
+{
+  "id": 24,
+  "number": "0024",
+  "name": "arbok",
+  "name_es": "Arbok",
+  "genus_es": "Pokémon Cobra",
+  "flavor_es": "Se han llegado a identificar hasta seis variaciones distintas de los espeluznantes dibujos de su piel.",
+  "types": [
+    {
+      "en": "poison",
+      "es": "Veneno"
+    }
+  ],
+  "height_m": 3.5,
+  "weight_kg": 65.0,
+  "abilities": [
+    {
+      "name": "intimidate",
+      "name_es": "Intimidación",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shed-skin",
+      "name_es": "Mudar",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "unnerve",
+      "name_es": "Nerviosismo",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 60,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 95,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 69,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 65,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 79,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 80,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/24.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "local": "assets/sprites/0024.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "purple",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/9/"
+}

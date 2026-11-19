@@ -1,0 +1,92 @@
+{
+  "id": 83,
+  "number": "0083",
+  "name": "farfetchd",
+  "name_es": "Farfetch’d",
+  "genus_es": "Pokémon Pato Salvaje",
+  "flavor_es": "Combate empuñando un puerro como arma. La forma de blandirlo es tan variada que ha llegado a generar sus propias escuelas.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 0.8,
+  "weight_kg": 15.0,
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "name_es": "Vista Lince",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "inner-focus",
+      "name_es": "Fuerza Mental",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "defiant",
+      "name_es": "Competitivo",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 52,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 90,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 55,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 58,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 62,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 60,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/83.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "local": "assets/sprites/0083.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/35/"
+}

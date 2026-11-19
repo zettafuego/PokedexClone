@@ -1,0 +1,92 @@
+{
+  "id": 122,
+  "number": "0122",
+  "name": "mr-mime",
+  "name_es": "Mr. Mime",
+  "genus_es": "Pokémon Barrera",
+  "flavor_es": "Domina con maestría la pantomima. La barrera generada con las ondas que emite por los dedos le permite protegerse de numerosos ataques.",
+  "types": [
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    },
+    {
+      "en": "fairy",
+      "es": "Hada"
+    }
+  ],
+  "height_m": 1.3,
+  "weight_kg": 54.5,
+  "abilities": [
+    {
+      "name": "soundproof",
+      "name_es": "Insonorizar",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "filter",
+      "name_es": "Filtro",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "technician",
+      "name_es": "Experto",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 40,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 45,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 65,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 100,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 120,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 90,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    },
+    {
+      "en": "steel",
+      "es": "Acero"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/122.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "local": "assets/sprites/0122.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "pink",
+  "habitat": "urban",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/57/"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 50,
+  "number": "0050",
+  "name": "diglett",
+  "name_es": "Diglett",
+  "genus_es": "Pokémon Topo",
+  "flavor_es": "Este Pokémon avanza horadando la tierra a poca profundidad. Resulta fácil localizarlo por los montículos que deja como rastro.",
+  "types": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    }
+  ],
+  "height_m": 0.2,
+  "weight_kg": 0.8,
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "name_es": "Velo Arena",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "arena-trap",
+      "name_es": "Trampa Arena",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sand-force",
+      "name_es": "Poder Arena",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 10,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 55,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 25,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 35,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 45,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 95,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/50.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "local": "assets/sprites/0050.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "cave",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/21/"
+}

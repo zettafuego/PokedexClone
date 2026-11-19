@@ -1,0 +1,82 @@
+{
+  "id": 147,
+  "number": "0147",
+  "name": "dratini",
+  "name_es": "Dratini",
+  "genus_es": "Pokémon Dragón",
+  "flavor_es": "Durante mucho tiempo se dudó de su existencia. La pequeña protuberancia de la frente es en realidad un cuerno incipiente.",
+  "types": [
+    {
+      "en": "dragon",
+      "es": "Dragón"
+    }
+  ],
+  "height_m": 1.8,
+  "weight_kg": 3.3,
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "name_es": "Mudar",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "marvel-scale",
+      "name_es": "Escama Especial",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 41,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 64,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 45,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 50,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 50,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 50,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "dragon",
+      "es": "Dragón"
+    },
+    {
+      "en": "fairy",
+      "es": "Hada"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/147.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "local": "assets/sprites/0147.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "blue",
+  "habitat": "waters-edge",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/76/"
+}

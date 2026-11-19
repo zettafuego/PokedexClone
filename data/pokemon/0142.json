@@ -1,0 +1,100 @@
+{
+  "id": 142,
+  "number": "0142",
+  "name": "aerodactyl",
+  "name_es": "Aerodactyl",
+  "genus_es": "Pokémon Fósil",
+  "flavor_es": "Sus colmillos, afilados como sierras, pueden hacer trizas incluso la piel de Pokémon de tipo Acero.",
+  "types": [
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.8,
+  "weight_kg": 59.0,
+  "abilities": [
+    {
+      "name": "rock-head",
+      "name_es": "Cabeza Roca",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pressure",
+      "name_es": "Presión",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "unnerve",
+      "name_es": "Nerviosismo",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 80,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 105,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 65,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 60,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 75,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 130,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "steel",
+      "es": "Acero"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/142.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "local": "assets/sprites/0142.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "purple",
+  "habitat": "mountain",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/71/"
+}

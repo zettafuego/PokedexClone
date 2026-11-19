@@ -1,0 +1,84 @@
+{
+  "id": 99,
+  "number": "0099",
+  "name": "kingler",
+  "name_es": "Kingler",
+  "genus_es": "Pokémon Tenaza",
+  "flavor_es": "Su gran pinza posee una potencia devastadora, pero su peso excesivo la convierte en un estorbo fuera del terreno de combate.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "height_m": 1.3,
+  "weight_kg": 60.0,
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "name_es": "Corte Fuerte",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shell-armor",
+      "name_es": "Caparazón",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sheer-force",
+      "name_es": "Potencia Bruta",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 55,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 130,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 115,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 50,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 50,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 75,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/99.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "local": "assets/sprites/0099.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "waters-edge",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/43/"
+}

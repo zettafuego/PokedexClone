@@ -1,0 +1,96 @@
+{
+  "id": 49,
+  "number": "0049",
+  "name": "venomoth",
+  "name_es": "Venomoth",
+  "genus_es": "Pokémon Polilla Ven.",
+  "flavor_es": "Las alas desprenden un polvillo de escamas impregnado de toxinas que se adhiere al contacto y resulta difícil de quitar.",
+  "types": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    }
+  ],
+  "height_m": 1.5,
+  "weight_kg": 12.5,
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "name_es": "Polvo Escudo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tinted-lens",
+      "name_es": "Cromolente",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "wonder-skin",
+      "name_es": "Piel Milagro",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 70,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 65,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 60,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 90,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 75,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 90,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/49.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "local": "assets/sprites/0049.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "purple",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/20/"
+}

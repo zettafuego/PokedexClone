@@ -1,0 +1,82 @@
+{
+  "id": 145,
+  "number": "0145",
+  "name": "zapdos",
+  "name_es": "Zapdos",
+  "genus_es": "Pokémon Eléctrico",
+  "flavor_es": "Una de las aves legendarias. Dicen que, cuando este Pokémon frota las alas, cae al instante un relámpago del cielo.",
+  "types": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.6,
+  "weight_kg": 52.6,
+  "abilities": [
+    {
+      "name": "pressure",
+      "name_es": "Presión",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "static",
+      "name_es": "Electricidad Estática",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 90,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 90,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 85,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 125,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 90,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 100,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/145.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "local": "assets/sprites/0145.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": true,
+  "is_mythical": false,
+  "color": "yellow",
+  "habitat": "rare",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/74/"
+}

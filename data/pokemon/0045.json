@@ -1,0 +1,90 @@
+{
+  "id": 45,
+  "number": "0045",
+  "name": "vileplume",
+  "name_es": "Vileplume",
+  "genus_es": "Pokémon Flor",
+  "flavor_es": "Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.",
+  "types": [
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    }
+  ],
+  "height_m": 1.2,
+  "weight_kg": 18.6,
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "name_es": "Clorofila",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "effect-spore",
+      "name_es": "Efecto Espora",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 75,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 80,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 85,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 110,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 90,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 50,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/45.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "local": "assets/sprites/0045.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/18/"
+}

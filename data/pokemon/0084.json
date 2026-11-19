@@ -1,0 +1,92 @@
+{
+  "id": 84,
+  "number": "0084",
+  "name": "doduo",
+  "name_es": "Doduo",
+  "genus_es": "Pokémon Ave Gemela",
+  "flavor_es": "Las diminutas alas apenas le permiten volar, pero puede correr a gran velocidad gracias a sus patas hiperdesarrolladas.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.4,
+  "weight_kg": 39.2,
+  "abilities": [
+    {
+      "name": "run-away",
+      "name_es": "Fuga",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "early-bird",
+      "name_es": "Madrugar",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "tangled-feet",
+      "name_es": "Tumbos",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 35,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 85,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 45,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 35,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 35,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 75,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/84.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "local": "assets/sprites/0084.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/36/"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 17,
+  "number": "0017",
+  "name": "pidgeotto",
+  "name_es": "Pidgeotto",
+  "genus_es": "Pokémon Pájaro",
+  "flavor_es": "Su extraordinaria vitalidad y resistencia le permiten cubrir grandes distancias del territorio que habita en busca de presas.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.1,
+  "weight_kg": 30.0,
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "name_es": "Vista Lince",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tangled-feet",
+      "name_es": "Tumbos",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "big-pecks",
+      "name_es": "Sacapecho",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 63,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 60,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 55,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 50,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 50,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 71,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/17.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "local": "assets/sprites/0017.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/6/"
+}

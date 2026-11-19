@@ -1,0 +1,80 @@
+{
+  "id": 101,
+  "number": "0101",
+  "name": "electrode",
+  "name_es": "Electrode",
+  "genus_es": "Pokémon Bola",
+  "flavor_es": "Almacena tal cantidad de energía eléctrica en su cuerpo que el más leve impacto puede provocar una gran explosión.",
+  "types": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    }
+  ],
+  "height_m": 1.2,
+  "weight_kg": 66.6,
+  "abilities": [
+    {
+      "name": "soundproof",
+      "name_es": "Insonorizar",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "static",
+      "name_es": "Electricidad Estática",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "aftermath",
+      "name_es": "Detonación",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 60,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 50,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 70,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 80,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 150,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/101.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "local": "assets/sprites/0101.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "urban",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/44/"
+}

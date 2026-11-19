@@ -1,0 +1,96 @@
+{
+  "id": 87,
+  "number": "0087",
+  "name": "dewgong",
+  "name_es": "Dewgong",
+  "genus_es": "Pokémon León Marino",
+  "flavor_es": "Su cuerpo es blanco como la nieve. Puede nadar plácidamente en mares gélidos gracias a su resistencia al frío.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    }
+  ],
+  "height_m": 1.7,
+  "weight_kg": 120.0,
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "name_es": "Sebo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hydration",
+      "name_es": "Hidratación",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ice-body",
+      "name_es": "Gélido",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 90,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 70,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 80,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 70,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 95,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 70,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/87.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "local": "assets/sprites/0087.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "white",
+  "habitat": "sea",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/37/"
+}

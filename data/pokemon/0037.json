@@ -1,0 +1,82 @@
+{
+  "id": 37,
+  "number": "0037",
+  "name": "vulpix",
+  "name_es": "Vulpix",
+  "genus_es": "Pokémon Zorro",
+  "flavor_es": "Su pelaje se va volviendo más suave, lustroso y bello a medida que le crecen las seis colas. Al abrazarlo, emana una ligera calidez.",
+  "types": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    }
+  ],
+  "height_m": 0.6,
+  "weight_kg": 9.9,
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "name_es": "Absorbe Fuego",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "drought",
+      "name_es": "Sequía",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 38,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 41,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 40,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 50,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 65,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 65,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/37.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "local": "assets/sprites/0037.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/15/"
+}

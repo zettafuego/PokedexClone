@@ -1,0 +1,104 @@
+{
+  "id": 124,
+  "number": "0124",
+  "name": "jynx",
+  "name_es": "Jynx",
+  "genus_es": "Pokémon Forma Humana",
+  "flavor_es": "Los ejemplares que habitan en Galar poseen una voz tan delicada y hermosa que incluso cuentan con su propio grupo de admiradores.",
+  "types": [
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "height_m": 1.4,
+  "weight_kg": 40.6,
+  "abilities": [
+    {
+      "name": "oblivious",
+      "name_es": "Despiste",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "forewarn",
+      "name_es": "Alerta",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "dry-skin",
+      "name_es": "Piel Seca",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 65,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 50,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 35,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 115,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 95,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 95,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "dark",
+      "es": "Siniestro"
+    },
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "steel",
+      "es": "Acero"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/124.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "local": "assets/sprites/0124.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "urban",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/59/"
+}

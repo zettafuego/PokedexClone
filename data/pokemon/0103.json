@@ -1,0 +1,102 @@
+{
+  "id": 103,
+  "number": "0103",
+  "name": "exeggutor",
+  "name_es": "Exeggutor",
+  "genus_es": "Pokémon Coco",
+  "flavor_es": "Puede lanzar ataques psíquicos de gran potencia si sus tres cabezas se ponen de acuerdo. Cuando se nubla el cielo, sus movimientos se ralentizan.",
+  "types": [
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "height_m": 2.0,
+  "weight_kg": 120.0,
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "name_es": "Clorofila",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "harvest",
+      "name_es": "Cosecha",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 95,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 95,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 85,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 125,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 75,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 55,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "dark",
+      "es": "Siniestro"
+    },
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/103.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "local": "assets/sprites/0103.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "yellow",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/45/"
+}

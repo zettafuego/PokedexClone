@@ -1,0 +1,84 @@
+{
+  "id": 98,
+  "number": "0098",
+  "name": "krabby",
+  "name_es": "Krabby",
+  "genus_es": "Pokémon Cangrejo",
+  "flavor_es": "Ante el peligro, se camufla con las burbujas que desprende por la boca para parecer más grande.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "height_m": 0.4,
+  "weight_kg": 6.5,
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "name_es": "Corte Fuerte",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shell-armor",
+      "name_es": "Caparazón",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sheer-force",
+      "name_es": "Potencia Bruta",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 30,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 105,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 90,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 25,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 25,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 50,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/98.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "local": "assets/sprites/0098.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "waters-edge",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/43/"
+}

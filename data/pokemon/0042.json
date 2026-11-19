@@ -1,0 +1,90 @@
+{
+  "id": 42,
+  "number": "0042",
+  "name": "golbat",
+  "name_es": "Golbat",
+  "genus_es": "Pokémon Murciélago",
+  "flavor_es": "Camina con soltura sobre sus pequeñas patas. Se acerca con sigilo a su presa mientras esta duerme y le clava los colmillos para chuparle la sangre.",
+  "types": [
+    {
+      "en": "poison",
+      "es": "Veneno"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.6,
+  "weight_kg": 55.0,
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "name_es": "Fuerza Mental",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "infiltrator",
+      "name_es": "Allanamiento",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 75,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 80,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 70,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 65,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 75,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 90,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/42.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "local": "assets/sprites/0042.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "purple",
+  "habitat": "cave",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/17/"
+}

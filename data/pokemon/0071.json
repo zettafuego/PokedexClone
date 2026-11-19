@@ -1,0 +1,90 @@
+{
+  "id": 71,
+  "number": "0071",
+  "name": "victreebel",
+  "name_es": "Victreebel",
+  "genus_es": "Pokémon Matamoscas",
+  "flavor_es": "Atrae a su presa con un dulce aroma a miel. Una vez atrapada en la boca, la disuelve en tan solo un día, huesos incluidos.",
+  "types": [
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    }
+  ],
+  "height_m": 1.7,
+  "weight_kg": 15.5,
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "name_es": "Clorofila",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gluttony",
+      "name_es": "Gula",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 80,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 105,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 65,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 100,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 70,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 70,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/71.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "local": "assets/sprites/0071.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "green",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/29/"
+}

@@ -1,0 +1,104 @@
+{
+  "id": 47,
+  "number": "0047",
+  "name": "parasect",
+  "name_es": "Parasect",
+  "genus_es": "Pokémon Hongo",
+  "flavor_es": "Tras largo tiempo absorbiendo la energía del huésped, la seta parásita del lomo es la que parece controlar la voluntad de este Pokémon.",
+  "types": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "height_m": 1.0,
+  "weight_kg": 29.5,
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "name_es": "Efecto Espora",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dry-skin",
+      "name_es": "Piel Seca",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "damp",
+      "name_es": "Humedad",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 60,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 95,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 80,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 60,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 30,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/47.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "local": "assets/sprites/0047.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "forest",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/19/"
+}

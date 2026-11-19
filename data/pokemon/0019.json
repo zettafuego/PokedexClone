@@ -1,0 +1,80 @@
+{
+  "id": 19,
+  "number": "0019",
+  "name": "rattata",
+  "name_es": "Rattata",
+  "genus_es": "Pokémon Ratón",
+  "flavor_es": "Es propenso a hincar los incisivos en cualquier cosa que se le ponga por delante. Si se ve alguno, seguramente haya cuarenta cerca.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    }
+  ],
+  "height_m": 0.3,
+  "weight_kg": 3.5,
+  "abilities": [
+    {
+      "name": "run-away",
+      "name_es": "Fuga",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "guts",
+      "name_es": "Agallas",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "hustle",
+      "name_es": "Entusiasmo",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 30,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 56,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 35,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 25,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 35,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 72,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "local": "assets/sprites/0019.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "purple",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/7/"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 80,
+  "number": "0080",
+  "name": "slowbro",
+  "name_es": "Slowbro",
+  "genus_es": "Pokémon Ermitaño",
+  "flavor_es": "Se volvió bípedo por el impacto que le causó la mordedura del Shellder. Si este se desprende, vuelve a convertirse en un Slowpoke.",
+  "types": [
+    {
+      "en": "water",
+      "es": "Agua"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "height_m": 1.6,
+  "weight_kg": 78.5,
+  "abilities": [
+    {
+      "name": "oblivious",
+      "name_es": "Despiste",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "own-tempo",
+      "name_es": "Ritmo Propio",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "regenerator",
+      "name_es": "Regeneración",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 95,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 75,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 110,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 100,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 30,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "bug",
+      "es": "Bicho"
+    },
+    {
+      "en": "dark",
+      "es": "Siniestro"
+    },
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    },
+    {
+      "en": "grass",
+      "es": "Planta"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/80.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "local": "assets/sprites/0080.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "pink",
+  "habitat": "waters-edge",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/33/"
+}

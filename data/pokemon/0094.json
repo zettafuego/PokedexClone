@@ -1,0 +1,84 @@
+{
+  "id": 94,
+  "number": "0094",
+  "name": "gengar",
+  "name_es": "Gengar",
+  "genus_es": "Pokémon Sombra",
+  "flavor_es": "Dicen que sale de la oscuridad para robarles el alma a los que se pierden por las montañas.",
+  "types": [
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    },
+    {
+      "en": "poison",
+      "es": "Veneno"
+    }
+  ],
+  "height_m": 1.5,
+  "weight_kg": 40.5,
+  "abilities": [
+    {
+      "name": "cursed-body",
+      "name_es": "Cuerpo Maldito",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 60,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 65,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 60,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 130,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 75,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 110,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "dark",
+      "es": "Siniestro"
+    },
+    {
+      "en": "ghost",
+      "es": "Fantasma"
+    },
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "psychic",
+      "es": "Psíquico"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/94.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "local": "assets/sprites/0094.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "purple",
+  "habitat": "cave",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/40/"
+}

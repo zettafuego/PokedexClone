@@ -1,0 +1,88 @@
+{
+  "id": 59,
+  "number": "0059",
+  "name": "arcanine",
+  "name_es": "Arcanine",
+  "genus_es": "Pokémon Leyenda",
+  "flavor_es": "Muchos han quedado cautivados por su belleza desde la antigüedad. Corre ágilmente como si tuviera alas.",
+  "types": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    }
+  ],
+  "height_m": 1.9,
+  "weight_kg": 155.0,
+  "abilities": [
+    {
+      "name": "intimidate",
+      "name_es": "Intimidación",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flash-fire",
+      "name_es": "Absorbe Fuego",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "justified",
+      "name_es": "Justiciero",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 90,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 110,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 80,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 100,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 80,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 95,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/59.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "local": "assets/sprites/0059.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "brown",
+  "habitat": "grassland",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/25/"
+}

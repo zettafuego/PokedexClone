@@ -1,0 +1,80 @@
+{
+  "id": 137,
+  "number": "0137",
+  "name": "porygon",
+  "name_es": "Porygon",
+  "genus_es": "Pokémon Virtual",
+  "flavor_es": "Durante los últimos años, ha estado muy activo en el ciberespacio comprobando que no haya datos sospechosos.",
+  "types": [
+    {
+      "en": "normal",
+      "es": "Normal"
+    }
+  ],
+  "height_m": 0.8,
+  "weight_kg": 36.5,
+  "abilities": [
+    {
+      "name": "trace",
+      "name_es": "Calco",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "download",
+      "name_es": "Descarga",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "analytic",
+      "name_es": "Cálculo Final",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 65,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 60,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 70,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 85,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 75,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 40,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "fighting",
+      "es": "Lucha"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/137.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "local": "assets/sprites/0137.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "pink",
+  "habitat": "urban",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/68/"
+}

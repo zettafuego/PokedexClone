@@ -1,0 +1,82 @@
+{
+  "id": 27,
+  "number": "0027",
+  "name": "sandshrew",
+  "name_es": "Sandshrew",
+  "genus_es": "Pokémon Ratón",
+  "flavor_es": "Excava madrigueras profundas en las que vive. Parte con sus afiladas garras cualquier roca, por dura que sea, que le entorpezca el camino.",
+  "types": [
+    {
+      "en": "ground",
+      "es": "Tierra"
+    }
+  ],
+  "height_m": 0.6,
+  "weight_kg": 12.0,
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "name_es": "Velo Arena",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sand-rush",
+      "name_es": "Ímpetu Arena",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 50,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 75,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 85,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 20,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 30,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 40,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "grass",
+      "es": "Planta"
+    },
+    {
+      "en": "ice",
+      "es": "Hielo"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/27.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "local": "assets/sprites/0027.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "yellow",
+  "habitat": "rough-terrain",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/11/"
+}

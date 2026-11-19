@@ -1,0 +1,86 @@
+{
+  "id": 6,
+  "number": "0006",
+  "name": "charizard",
+  "name_es": "Charizard",
+  "genus_es": "Pokémon Llama",
+  "flavor_es": "Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.",
+  "types": [
+    {
+      "en": "fire",
+      "es": "Fuego"
+    },
+    {
+      "en": "flying",
+      "es": "Volador"
+    }
+  ],
+  "height_m": 1.7,
+  "weight_kg": 90.5,
+  "abilities": [
+    {
+      "name": "blaze",
+      "name_es": "Mar Llamas",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "solar-power",
+      "name_es": "Poder Solar",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "stats": {
+    "hp": {
+      "value": 78,
+      "name_es": "PS"
+    },
+    "attack": {
+      "value": 84,
+      "name_es": "Ataque"
+    },
+    "defense": {
+      "value": 78,
+      "name_es": "Defensa"
+    },
+    "special-attack": {
+      "value": 109,
+      "name_es": "At. Esp."
+    },
+    "special-defense": {
+      "value": 85,
+      "name_es": "Def. Esp."
+    },
+    "speed": {
+      "value": 100,
+      "name_es": "Velocidad"
+    }
+  },
+  "weaknesses": [
+    {
+      "en": "electric",
+      "es": "Eléctrico"
+    },
+    {
+      "en": "rock",
+      "es": "Roca"
+    },
+    {
+      "en": "water",
+      "es": "Agua"
+    }
+  ],
+  "sprites": {
+    "official": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "local": "assets/sprites/0006.png"
+  },
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false,
+  "color": "red",
+  "habitat": "mountain",
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/2/"
+}
